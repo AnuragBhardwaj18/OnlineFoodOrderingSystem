@@ -1,0 +1,35 @@
+﻿@model IEnumerable<FoodOrdering.Web.Models.CartItem>
+
+@{
+    ViewData["Title"] = "Checkout";
+    decimal total = Model.Sum(x => x.FoodItem!.Price * x.Quantity);
+}
+
+<h2>Checkout</h2>
+
+<div class="card shadow p-4">
+    <table class="table table-bordered">
+        <tr>
+            <th>Food</th>
+            <th>Price</th>
+            <th>Qty</th>
+            <th>Total</th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.FoodItem?.Name</td>
+                <td>₹@item.FoodItem?.Price</td>
+                <td>@item.Quantity</td>
+                <td>₹@(item.FoodItem!.Price * item.Quantity)</td>
+            </tr>
+        }
+    </table>
+
+    <h4 class="text-end">Grand Total: ₹@total</h4>
+
+    <form asp-controller="Order" asp-action="PlaceOrder" method="post">
+        <button class="btn btn-warning w-100">Place Order</button>
+    </form>
+</div>

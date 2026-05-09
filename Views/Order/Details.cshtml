@@ -1,0 +1,38 @@
+﻿@model FoodOrdering.Web.Models.Order
+
+@{
+    ViewData["Title"] = "Order Details";
+}
+
+<h2>Order Details</h2>
+
+<div class="card shadow p-4">
+    <p><b>Order ID:</b> @Model.Id</p>
+    <p><b>Date:</b> @Model.OrderDate</p>
+    <p><b>Status:</b> @Model.Status</p>
+    <p><b>Total:</b> ₹@Model.TotalAmount</p>
+
+    <table class="table table-bordered">
+        <tr>
+            <th>Food</th>
+            <th>Quantity</th>
+            <th>Price</th>
+        </tr>
+
+        @foreach (var item in Model.OrderItems!)
+        {
+            <tr>
+                <td>@item.FoodItem?.Name</td>
+                <td>@item.Quantity</td>
+                <td>₹@item.Price</td>
+            </tr>
+        }
+    </table>
+
+    <a asp-controller="Invoice"
+           asp-action="Generate"
+           asp-route-id="@Model.Id"
+           class="btn btn-success">
+        Generate Invoice
+    </a>
+</div>

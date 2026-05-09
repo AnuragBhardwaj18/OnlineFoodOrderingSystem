@@ -1,0 +1,49 @@
+﻿@model IEnumerable<FoodOrdering.Web.Models.CartItem>
+
+@{
+    ViewData["Title"] = "Cart";
+    decimal grandTotal = 0;
+}
+
+<h2>Your Cart</h2>
+
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>Food</th>
+            <th>Price</th>
+            <th>Quantity</th>
+            <th>Total</th>
+            <th>Action</th>
+        </tr>
+    </thead>
+
+    <tbody>
+        @foreach (var item in Model)
+        {
+            var total = item.FoodItem!.Price * item.Quantity;
+            grandTotal += total;
+
+            <tr>
+                <td>@item.FoodItem.Name</td>
+                <td>₹@item.FoodItem.Price</td>
+                <td>@item.Quantity</td>
+                <td>₹@total</td>
+                <td>
+                    <a asp-controller="Cart"
+                           asp-action="Remove"
+                           asp-route-id="@item.Id"
+                           class="btn btn-danger btn-sm">
+                        Remove
+                    </a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<h4>Grand Total: ₹@grandTotal</h4>
+
+<a asp-controller="Order" asp-action="Checkout" class="btn btn-success">
+    Proceed to Checkout
+</a>

@@ -1,0 +1,632 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Anurag Bhardwaj\\Desktop\\Cap\\Week-12\\09-05-2026\\Assignments\\Assignment-1\\FoodOrdering.Web\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0FDD4FF1-1EF5-4E02-A96F-D3A7A041CBF7}|FoodOrdering.Web.csproj|c:\\users\\anurag bhardwaj\\desktop\\cap\\week-12\\09-05-2026\\assignments\\assignment-1\\foodordering.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0FDD4FF1-1EF5-4E02-A96F-D3A7A041CBF7}|FoodOrdering.Web.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FDD4FF1-1EF5-4E02-A96F-D3A7A041CBF7}|FoodOrdering.Web.csproj|c:\\users\\anurag bhardwaj\\desktop\\cap\\week-12\\09-05-2026\\assignments\\assignment-1\\foodordering.web\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0FDD4FF1-1EF5-4E02-A96F-D3A7A041CBF7}|FoodOrdering.Web.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FDD4FF1-1EF5-4E02-A96F-D3A7A041CBF7}|FoodOrdering.Web.csproj|c:\\users\\anurag bhardwaj\\desktop\\cap\\week-12\\09-05-2026\\assignments\\assignment-1\\foodordering.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0FDD4FF1-1EF5-4E02-A96F-D3A7A041CBF7}|FoodOrdering.Web.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FDD4FF1-1EF5-4E02-A96F-D3A7A041CBF7}|FoodOrdering.Web.csproj|c:\\users\\anurag bhardwaj\\desktop\\cap\\week-12\\09-05-2026\\assignments\\assignment-1\\foodordering.web\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{0FDD4FF1-1EF5-4E02-A96F-D3A7A041CBF7}|FoodOrdering.Web.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FDD4FF1-1EF5-4E02-A96F-D3A7A041CBF7}|FoodOrdering.Web.csproj|c:\\users\\anurag bhardwaj\\desktop\\cap\\week-12\\09-05-2026\\assignments\\assignment-1\\foodordering.web\\views\\invoice\\generate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0FDD4FF1-1EF5-4E02-A96F-D3A7A041CBF7}|FoodOrdering.Web.csproj|solutionrelative:views\\invoice\\generate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FDD4FF1-1EF5-4E02-A96F-D3A7A041CBF7}|FoodOrdering.Web.csproj|c:\\users\\anurag bhardwaj\\desktop\\cap\\week-12\\09-05-2026\\assignments\\assignment-1\\foodordering.web\\views\\order\\manage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0FDD4FF1-1EF5-4E02-A96F-D3A7A041CBF7}|FoodOrdering.Web.csproj|solutionrelative:views\\order\\manage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FDD4FF1-1EF5-4E02-A96F-D3A7A041CBF7}|FoodOrdering.Web.csproj|c:\\users\\anurag bhardwaj\\desktop\\cap\\week-12\\09-05-2026\\assignments\\assignment-1\\foodordering.web\\views\\order\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0FDD4FF1-1EF5-4E02-A96F-D3A7A041CBF7}|FoodOrdering.Web.csproj|solutionrelative:views\\order\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FDD4FF1-1EF5-4E02-A96F-D3A7A041CBF7}|FoodOrdering.Web.csproj|c:\\users\\anurag bhardwaj\\desktop\\cap\\week-12\\09-05-2026\\assignments\\assignment-1\\foodordering.web\\views\\order\\history.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0FDD4FF1-1EF5-4E02-A96F-D3A7A041CBF7}|FoodOrdering.Web.csproj|solutionrelative:views\\order\\history.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FDD4FF1-1EF5-4E02-A96F-D3A7A041CBF7}|FoodOrdering.Web.csproj|c:\\users\\anurag bhardwaj\\desktop\\cap\\week-12\\09-05-2026\\assignments\\assignment-1\\foodordering.web\\views\\order\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0FDD4FF1-1EF5-4E02-A96F-D3A7A041CBF7}|FoodOrdering.Web.csproj|solutionrelative:views\\order\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FDD4FF1-1EF5-4E02-A96F-D3A7A041CBF7}|FoodOrdering.Web.csproj|c:\\users\\anurag bhardwaj\\desktop\\cap\\week-12\\09-05-2026\\assignments\\assignment-1\\foodordering.web\\views\\food\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0FDD4FF1-1EF5-4E02-A96F-D3A7A041CBF7}|FoodOrdering.Web.csproj|solutionrelative:views\\food\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FDD4FF1-1EF5-4E02-A96F-D3A7A041CBF7}|FoodOrdering.Web.csproj|c:\\users\\anurag bhardwaj\\desktop\\cap\\week-12\\09-05-2026\\assignments\\assignment-1\\foodordering.web\\views\\food\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0FDD4FF1-1EF5-4E02-A96F-D3A7A041CBF7}|FoodOrdering.Web.csproj|solutionrelative:views\\food\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FDD4FF1-1EF5-4E02-A96F-D3A7A041CBF7}|FoodOrdering.Web.csproj|c:\\users\\anurag bhardwaj\\desktop\\cap\\week-12\\09-05-2026\\assignments\\assignment-1\\foodordering.web\\views\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0FDD4FF1-1EF5-4E02-A96F-D3A7A041CBF7}|FoodOrdering.Web.csproj|solutionrelative:views\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FDD4FF1-1EF5-4E02-A96F-D3A7A041CBF7}|FoodOrdering.Web.csproj|c:\\users\\anurag bhardwaj\\desktop\\cap\\week-12\\09-05-2026\\assignments\\assignment-1\\foodordering.web\\views\\account\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0FDD4FF1-1EF5-4E02-A96F-D3A7A041CBF7}|FoodOrdering.Web.csproj|solutionrelative:views\\account\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FDD4FF1-1EF5-4E02-A96F-D3A7A041CBF7}|FoodOrdering.Web.csproj|c:\\users\\anurag bhardwaj\\desktop\\cap\\week-12\\09-05-2026\\assignments\\assignment-1\\foodordering.web\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0FDD4FF1-1EF5-4E02-A96F-D3A7A041CBF7}|FoodOrdering.Web.csproj|solutionrelative:views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FDD4FF1-1EF5-4E02-A96F-D3A7A041CBF7}|FoodOrdering.Web.csproj|c:\\users\\anurag bhardwaj\\desktop\\cap\\week-12\\09-05-2026\\assignments\\assignment-1\\foodordering.web\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0FDD4FF1-1EF5-4E02-A96F-D3A7A041CBF7}|FoodOrdering.Web.csproj|solutionrelative:views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FDD4FF1-1EF5-4E02-A96F-D3A7A041CBF7}|FoodOrdering.Web.csproj|c:\\users\\anurag bhardwaj\\desktop\\cap\\week-12\\09-05-2026\\assignments\\assignment-1\\foodordering.web\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0FDD4FF1-1EF5-4E02-A96F-D3A7A041CBF7}|FoodOrdering.Web.csproj|solutionrelative:views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FDD4FF1-1EF5-4E02-A96F-D3A7A041CBF7}|FoodOrdering.Web.csproj|c:\\users\\anurag bhardwaj\\desktop\\cap\\week-12\\09-05-2026\\assignments\\assignment-1\\foodordering.web\\controllers\\adminfoodcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FDD4FF1-1EF5-4E02-A96F-D3A7A041CBF7}|FoodOrdering.Web.csproj|solutionrelative:controllers\\adminfoodcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FDD4FF1-1EF5-4E02-A96F-D3A7A041CBF7}|FoodOrdering.Web.csproj|c:\\users\\anurag bhardwaj\\desktop\\cap\\week-12\\09-05-2026\\assignments\\assignment-1\\foodordering.web\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FDD4FF1-1EF5-4E02-A96F-D3A7A041CBF7}|FoodOrdering.Web.csproj|solutionrelative:controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FDD4FF1-1EF5-4E02-A96F-D3A7A041CBF7}|FoodOrdering.Web.csproj|c:\\users\\anurag bhardwaj\\desktop\\cap\\week-12\\09-05-2026\\assignments\\assignment-1\\foodordering.web\\controllers\\invoicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FDD4FF1-1EF5-4E02-A96F-D3A7A041CBF7}|FoodOrdering.Web.csproj|solutionrelative:controllers\\invoicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FDD4FF1-1EF5-4E02-A96F-D3A7A041CBF7}|FoodOrdering.Web.csproj|c:\\users\\anurag bhardwaj\\desktop\\cap\\week-12\\09-05-2026\\assignments\\assignment-1\\foodordering.web\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FDD4FF1-1EF5-4E02-A96F-D3A7A041CBF7}|FoodOrdering.Web.csproj|solutionrelative:controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FDD4FF1-1EF5-4E02-A96F-D3A7A041CBF7}|FoodOrdering.Web.csproj|c:\\users\\anurag bhardwaj\\desktop\\cap\\week-12\\09-05-2026\\assignments\\assignment-1\\foodordering.web\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FDD4FF1-1EF5-4E02-A96F-D3A7A041CBF7}|FoodOrdering.Web.csproj|solutionrelative:controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FDD4FF1-1EF5-4E02-A96F-D3A7A041CBF7}|FoodOrdering.Web.csproj|c:\\users\\anurag bhardwaj\\desktop\\cap\\week-12\\09-05-2026\\assignments\\assignment-1\\foodordering.web\\controllers\\foodcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FDD4FF1-1EF5-4E02-A96F-D3A7A041CBF7}|FoodOrdering.Web.csproj|solutionrelative:controllers\\foodcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FDD4FF1-1EF5-4E02-A96F-D3A7A041CBF7}|FoodOrdering.Web.csproj|c:\\users\\anurag bhardwaj\\desktop\\cap\\week-12\\09-05-2026\\assignments\\assignment-1\\foodordering.web\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FDD4FF1-1EF5-4E02-A96F-D3A7A041CBF7}|FoodOrdering.Web.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FDD4FF1-1EF5-4E02-A96F-D3A7A041CBF7}|FoodOrdering.Web.csproj|c:\\users\\anurag bhardwaj\\desktop\\cap\\week-12\\09-05-2026\\assignments\\assignment-1\\foodordering.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0FDD4FF1-1EF5-4E02-A96F-D3A7A041CBF7}|FoodOrdering.Web.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FDD4FF1-1EF5-4E02-A96F-D3A7A041CBF7}|FoodOrdering.Web.csproj|c:\\users\\anurag bhardwaj\\desktop\\cap\\week-12\\09-05-2026\\assignments\\assignment-1\\foodordering.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FDD4FF1-1EF5-4E02-A96F-D3A7A041CBF7}|FoodOrdering.Web.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FDD4FF1-1EF5-4E02-A96F-D3A7A041CBF7}|FoodOrdering.Web.csproj|c:\\users\\anurag bhardwaj\\desktop\\cap\\week-12\\09-05-2026\\assignments\\assignment-1\\foodordering.web\\data\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FDD4FF1-1EF5-4E02-A96F-D3A7A041CBF7}|FoodOrdering.Web.csproj|solutionrelative:data\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FDD4FF1-1EF5-4E02-A96F-D3A7A041CBF7}|FoodOrdering.Web.csproj|c:\\users\\anurag bhardwaj\\desktop\\cap\\week-12\\09-05-2026\\assignments\\assignment-1\\foodordering.web\\views\\adminfood\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0FDD4FF1-1EF5-4E02-A96F-D3A7A041CBF7}|FoodOrdering.Web.csproj|solutionrelative:views\\adminfood\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FDD4FF1-1EF5-4E02-A96F-D3A7A041CBF7}|FoodOrdering.Web.csproj|c:\\users\\anurag bhardwaj\\desktop\\cap\\week-12\\09-05-2026\\assignments\\assignment-1\\foodordering.web\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{0FDD4FF1-1EF5-4E02-A96F-D3A7A041CBF7}|FoodOrdering.Web.csproj|solutionrelative:views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FDD4FF1-1EF5-4E02-A96F-D3A7A041CBF7}|FoodOrdering.Web.csproj|c:\\users\\anurag bhardwaj\\desktop\\cap\\week-12\\09-05-2026\\assignments\\assignment-1\\foodordering.web\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FDD4FF1-1EF5-4E02-A96F-D3A7A041CBF7}|FoodOrdering.Web.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Anurag Bhardwaj\\Desktop\\Cap\\Week-12\\09-05-2026\\Assignments\\Assignment-1\\FoodOrdering.Web\\Migrations\\20260509061411_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20260509061411_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FDD4FF1-1EF5-4E02-A96F-D3A7A041CBF7}|FoodOrdering.Web.csproj|c:\\users\\anurag bhardwaj\\desktop\\cap\\week-12\\09-05-2026\\assignments\\assignment-1\\foodordering.web\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FDD4FF1-1EF5-4E02-A96F-D3A7A041CBF7}|FoodOrdering.Web.csproj|solutionrelative:models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FDD4FF1-1EF5-4E02-A96F-D3A7A041CBF7}|FoodOrdering.Web.csproj|c:\\users\\anurag bhardwaj\\desktop\\cap\\week-12\\09-05-2026\\assignments\\assignment-1\\foodordering.web\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FDD4FF1-1EF5-4E02-A96F-D3A7A041CBF7}|FoodOrdering.Web.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FDD4FF1-1EF5-4E02-A96F-D3A7A041CBF7}|FoodOrdering.Web.csproj|c:\\users\\anurag bhardwaj\\desktop\\cap\\week-12\\09-05-2026\\assignments\\assignment-1\\foodordering.web\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FDD4FF1-1EF5-4E02-A96F-D3A7A041CBF7}|FoodOrdering.Web.csproj|solutionrelative:models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FDD4FF1-1EF5-4E02-A96F-D3A7A041CBF7}|FoodOrdering.Web.csproj|c:\\users\\anurag bhardwaj\\desktop\\cap\\week-12\\09-05-2026\\assignments\\assignment-1\\foodordering.web\\models\\fooditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FDD4FF1-1EF5-4E02-A96F-D3A7A041CBF7}|FoodOrdering.Web.csproj|solutionrelative:models\\fooditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FDD4FF1-1EF5-4E02-A96F-D3A7A041CBF7}|FoodOrdering.Web.csproj|c:\\users\\anurag bhardwaj\\desktop\\cap\\week-12\\09-05-2026\\assignments\\assignment-1\\foodordering.web\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FDD4FF1-1EF5-4E02-A96F-D3A7A041CBF7}|FoodOrdering.Web.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FDD4FF1-1EF5-4E02-A96F-D3A7A041CBF7}|FoodOrdering.Web.csproj|c:\\users\\anurag bhardwaj\\desktop\\cap\\week-12\\09-05-2026\\assignments\\assignment-1\\foodordering.web\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FDD4FF1-1EF5-4E02-A96F-D3A7A041CBF7}|FoodOrdering.Web.csproj|solutionrelative:models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\Anurag Bhardwaj\\Desktop\\Cap\\Week-12\\09-05-2026\\Assignments\\Assignment-1\\FoodOrdering.Web\\Dockerfile",
+              "RelativeDocumentMoniker": "Dockerfile",
+              "ToolTip": "C:\\Users\\Anurag Bhardwaj\\Desktop\\Cap\\Week-12\\09-05-2026\\Assignments\\Assignment-1\\FoodOrdering.Web\\Dockerfile",
+              "RelativeToolTip": "Dockerfile",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAwBMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-05-09T17:50:16.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "History.cshtml",
+              "DocumentMoniker": "C:\\Users\\Anurag Bhardwaj\\Desktop\\Cap\\Week-12\\09-05-2026\\Assignments\\Assignment-1\\FoodOrdering.Web\\Views\\Order\\History.cshtml",
+              "RelativeDocumentMoniker": "Views\\Order\\History.cshtml",
+              "ToolTip": "C:\\Users\\Anurag Bhardwaj\\Desktop\\Cap\\Week-12\\09-05-2026\\Assignments\\Assignment-1\\FoodOrdering.Web\\Views\\Order\\History.cshtml",
+              "RelativeToolTip": "Views\\Order\\History.cshtml",
+              "ViewState": "AgIAABYAAAAAAAAAAAAiwCIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-09T08:33:08.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Anurag Bhardwaj\\Desktop\\Cap\\Week-12\\09-05-2026\\Assignments\\Assignment-1\\FoodOrdering.Web\\Views\\Order\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Order\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Anurag Bhardwaj\\Desktop\\Cap\\Week-12\\09-05-2026\\Assignments\\Assignment-1\\FoodOrdering.Web\\Views\\Order\\Details.cshtml",
+              "RelativeToolTip": "Views\\Order\\Details.cshtml",
+              "ViewState": "AgIAABkAAAAAAAAAAAAiwCUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-09T08:33:53.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Manage.cshtml",
+              "DocumentMoniker": "C:\\Users\\Anurag Bhardwaj\\Desktop\\Cap\\Week-12\\09-05-2026\\Assignments\\Assignment-1\\FoodOrdering.Web\\Views\\Order\\Manage.cshtml",
+              "RelativeDocumentMoniker": "Views\\Order\\Manage.cshtml",
+              "ToolTip": "C:\\Users\\Anurag Bhardwaj\\Desktop\\Cap\\Week-12\\09-05-2026\\Assignments\\Assignment-1\\FoodOrdering.Web\\Views\\Order\\Manage.cshtml",
+              "RelativeToolTip": "Views\\Order\\Manage.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAiwCoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-09T08:34:54.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Generate.cshtml",
+              "DocumentMoniker": "C:\\Users\\Anurag Bhardwaj\\Desktop\\Cap\\Week-12\\09-05-2026\\Assignments\\Assignment-1\\FoodOrdering.Web\\Views\\Invoice\\Generate.cshtml",
+              "RelativeDocumentMoniker": "Views\\Invoice\\Generate.cshtml",
+              "ToolTip": "C:\\Users\\Anurag Bhardwaj\\Desktop\\Cap\\Week-12\\09-05-2026\\Assignments\\Assignment-1\\FoodOrdering.Web\\Views\\Invoice\\Generate.cshtml",
+              "RelativeToolTip": "Views\\Invoice\\Generate.cshtml",
+              "ViewState": "AgIAABoAAAAAAAAAAAAiwCYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-09T08:37:17.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Anurag Bhardwaj\\Desktop\\Cap\\Week-12\\09-05-2026\\Assignments\\Assignment-1\\FoodOrdering.Web\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Anurag Bhardwaj\\Desktop\\Cap\\Week-12\\09-05-2026\\Assignments\\Assignment-1\\FoodOrdering.Web\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAAwIoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-05-09T09:57:39.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Anurag Bhardwaj\\Desktop\\Cap\\Week-12\\09-05-2026\\Assignments\\Assignment-1\\FoodOrdering.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Anurag Bhardwaj\\Desktop\\Cap\\Week-12\\09-05-2026\\Assignments\\Assignment-1\\FoodOrdering.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAJwAAAAAAAAAAAAiwKgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-09T08:13:54.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Anurag Bhardwaj\\Desktop\\Cap\\Week-12\\09-05-2026\\Assignments\\Assignment-1\\FoodOrdering.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Anurag Bhardwaj\\Desktop\\Cap\\Week-12\\09-05-2026\\Assignments\\Assignment-1\\FoodOrdering.Web\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-09T05:53:03.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Checkout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Anurag Bhardwaj\\Desktop\\Cap\\Week-12\\09-05-2026\\Assignments\\Assignment-1\\FoodOrdering.Web\\Views\\Order\\Checkout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Order\\Checkout.cshtml",
+              "ToolTip": "C:\\Users\\Anurag Bhardwaj\\Desktop\\Cap\\Week-12\\09-05-2026\\Assignments\\Assignment-1\\FoodOrdering.Web\\Views\\Order\\Checkout.cshtml",
+              "RelativeToolTip": "Views\\Order\\Checkout.cshtml",
+              "ViewState": "AgIAABYAAAAAAAAAAAAiwCIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-09T17:10:00.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Anurag Bhardwaj\\Desktop\\Cap\\Week-12\\09-05-2026\\Assignments\\Assignment-1\\FoodOrdering.Web\\Views\\Food\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Food\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Anurag Bhardwaj\\Desktop\\Cap\\Week-12\\09-05-2026\\Assignments\\Assignment-1\\FoodOrdering.Web\\Views\\Food\\Details.cshtml",
+              "RelativeToolTip": "Views\\Food\\Details.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAAAiwB0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-09T08:27:37.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Anurag Bhardwaj\\Desktop\\Cap\\Week-12\\09-05-2026\\Assignments\\Assignment-1\\FoodOrdering.Web\\Views\\Food\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Food\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Anurag Bhardwaj\\Desktop\\Cap\\Week-12\\09-05-2026\\Assignments\\Assignment-1\\FoodOrdering.Web\\Views\\Food\\Index.cshtml",
+              "RelativeToolTip": "Views\\Food\\Index.cshtml",
+              "ViewState": "AgIAACgAAAAAAAAAAAAiwDQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-09T08:26:48.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AccessDenied.cshtml",
+              "DocumentMoniker": "C:\\Users\\Anurag Bhardwaj\\Desktop\\Cap\\Week-12\\09-05-2026\\Assignments\\Assignment-1\\FoodOrdering.Web\\Views\\Account\\AccessDenied.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\AccessDenied.cshtml",
+              "ToolTip": "C:\\Users\\Anurag Bhardwaj\\Desktop\\Cap\\Week-12\\09-05-2026\\Assignments\\Assignment-1\\FoodOrdering.Web\\Views\\Account\\AccessDenied.cshtml",
+              "RelativeToolTip": "Views\\Account\\AccessDenied.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-09T10:21:52.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ForgotPassword.cshtml",
+              "DocumentMoniker": "C:\\Users\\Anurag Bhardwaj\\Desktop\\Cap\\Week-12\\09-05-2026\\Assignments\\Assignment-1\\FoodOrdering.Web\\Views\\Account\\ForgotPassword.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\ForgotPassword.cshtml",
+              "ToolTip": "C:\\Users\\Anurag Bhardwaj\\Desktop\\Cap\\Week-12\\09-05-2026\\Assignments\\Assignment-1\\FoodOrdering.Web\\Views\\Account\\ForgotPassword.cshtml",
+              "RelativeToolTip": "Views\\Account\\ForgotPassword.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAAAiwBwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-09T17:06:24.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Anurag Bhardwaj\\Desktop\\Cap\\Week-12\\09-05-2026\\Assignments\\Assignment-1\\FoodOrdering.Web\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Anurag Bhardwaj\\Desktop\\Cap\\Week-12\\09-05-2026\\Assignments\\Assignment-1\\FoodOrdering.Web\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAACAAAAAAAAAAAAAiwCwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-09T10:20:24.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Anurag Bhardwaj\\Desktop\\Cap\\Week-12\\09-05-2026\\Assignments\\Assignment-1\\FoodOrdering.Web\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Anurag Bhardwaj\\Desktop\\Cap\\Week-12\\09-05-2026\\Assignments\\Assignment-1\\FoodOrdering.Web\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAABoAAAAAAAAAAAAiwCYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-09T10:21:08.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Anurag Bhardwaj\\Desktop\\Cap\\Week-12\\09-05-2026\\Assignments\\Assignment-1\\FoodOrdering.Web\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Cart\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Anurag Bhardwaj\\Desktop\\Cap\\Week-12\\09-05-2026\\Assignments\\Assignment-1\\FoodOrdering.Web\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "Views\\Cart\\Index.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAiwDAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-09T08:29:31.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AdminFoodController.cs",
+              "DocumentMoniker": "C:\\Users\\Anurag Bhardwaj\\Desktop\\Cap\\Week-12\\09-05-2026\\Assignments\\Assignment-1\\FoodOrdering.Web\\Controllers\\AdminFoodController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdminFoodController.cs",
+              "ToolTip": "C:\\Users\\Anurag Bhardwaj\\Desktop\\Cap\\Week-12\\09-05-2026\\Assignments\\Assignment-1\\FoodOrdering.Web\\Controllers\\AdminFoodController.cs",
+              "RelativeToolTip": "Controllers\\AdminFoodController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T08:10:26.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\Anurag Bhardwaj\\Desktop\\Cap\\Week-12\\09-05-2026\\Assignments\\Assignment-1\\FoodOrdering.Web\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\Anurag Bhardwaj\\Desktop\\Cap\\Week-12\\09-05-2026\\Assignments\\Assignment-1\\FoodOrdering.Web\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T07:14:18.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "InvoiceController.cs",
+              "DocumentMoniker": "C:\\Users\\Anurag Bhardwaj\\Desktop\\Cap\\Week-12\\09-05-2026\\Assignments\\Assignment-1\\FoodOrdering.Web\\Controllers\\InvoiceController.cs",
+              "RelativeDocumentMoniker": "Controllers\\InvoiceController.cs",
+              "ToolTip": "C:\\Users\\Anurag Bhardwaj\\Desktop\\Cap\\Week-12\\09-05-2026\\Assignments\\Assignment-1\\FoodOrdering.Web\\Controllers\\InvoiceController.cs",
+              "RelativeToolTip": "Controllers\\InvoiceController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAiwCYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T09:49:27.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\Anurag Bhardwaj\\Desktop\\Cap\\Week-12\\09-05-2026\\Assignments\\Assignment-1\\FoodOrdering.Web\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\Anurag Bhardwaj\\Desktop\\Cap\\Week-12\\09-05-2026\\Assignments\\Assignment-1\\FoodOrdering.Web\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Controllers\\OrderController.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAiwHwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T09:48:47.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\Anurag Bhardwaj\\Desktop\\Cap\\Week-12\\09-05-2026\\Assignments\\Assignment-1\\FoodOrdering.Web\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\Anurag Bhardwaj\\Desktop\\Cap\\Week-12\\09-05-2026\\Assignments\\Assignment-1\\FoodOrdering.Web\\Controllers\\CartController.cs",
+              "RelativeToolTip": "Controllers\\CartController.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAiwEoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T09:48:14.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FoodController.cs",
+              "DocumentMoniker": "C:\\Users\\Anurag Bhardwaj\\Desktop\\Cap\\Week-12\\09-05-2026\\Assignments\\Assignment-1\\FoodOrdering.Web\\Controllers\\FoodController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FoodController.cs",
+              "ToolTip": "C:\\Users\\Anurag Bhardwaj\\Desktop\\Cap\\Week-12\\09-05-2026\\Assignments\\Assignment-1\\FoodOrdering.Web\\Controllers\\FoodController.cs",
+              "RelativeToolTip": "Controllers\\FoodController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAiwDAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T09:47:26.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Anurag Bhardwaj\\Desktop\\Cap\\Week-12\\09-05-2026\\Assignments\\Assignment-1\\FoodOrdering.Web\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Anurag Bhardwaj\\Desktop\\Cap\\Week-12\\09-05-2026\\Assignments\\Assignment-1\\FoodOrdering.Web\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAiwF8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T10:18:25.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Anurag Bhardwaj\\Desktop\\Cap\\Week-12\\09-05-2026\\Assignments\\Assignment-1\\FoodOrdering.Web\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Anurag Bhardwaj\\Desktop\\Cap\\Week-12\\09-05-2026\\Assignments\\Assignment-1\\FoodOrdering.Web\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-09T09:56:35.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DbSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\Anurag Bhardwaj\\Desktop\\Cap\\Week-12\\09-05-2026\\Assignments\\Assignment-1\\FoodOrdering.Web\\Data\\DbSeeder.cs",
+              "RelativeDocumentMoniker": "Data\\DbSeeder.cs",
+              "ToolTip": "C:\\Users\\Anurag Bhardwaj\\Desktop\\Cap\\Week-12\\09-05-2026\\Assignments\\Assignment-1\\FoodOrdering.Web\\Data\\DbSeeder.cs",
+              "RelativeToolTip": "Data\\DbSeeder.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAQwCoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T09:13:45.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Anurag Bhardwaj\\Desktop\\Cap\\Week-12\\09-05-2026\\Assignments\\Assignment-1\\FoodOrdering.Web\\Views\\AdminFood\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\AdminFood\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Anurag Bhardwaj\\Desktop\\Cap\\Week-12\\09-05-2026\\Assignments\\Assignment-1\\FoodOrdering.Web\\Views\\AdminFood\\Edit.cshtml",
+              "RelativeToolTip": "Views\\AdminFood\\Edit.cshtml",
+              "ViewState": "AgIAADsAAAAAAAAAAAAQwEsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-09T09:06:21.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Anurag Bhardwaj\\Desktop\\Cap\\Week-12\\09-05-2026\\Assignments\\Assignment-1\\FoodOrdering.Web\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Anurag Bhardwaj\\Desktop\\Cap\\Week-12\\09-05-2026\\Assignments\\Assignment-1\\FoodOrdering.Web\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T06:01:33.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\Anurag Bhardwaj\\Desktop\\Cap\\Week-12\\09-05-2026\\Assignments\\Assignment-1\\FoodOrdering.Web\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\Anurag Bhardwaj\\Desktop\\Cap\\Week-12\\09-05-2026\\Assignments\\Assignment-1\\FoodOrdering.Web\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-05-09T08:20:46.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Anurag Bhardwaj\\Desktop\\Cap\\Week-12\\09-05-2026\\Assignments\\Assignment-1\\FoodOrdering.Web\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Anurag Bhardwaj\\Desktop\\Cap\\Week-12\\09-05-2026\\Assignments\\Assignment-1\\FoodOrdering.Web\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T06:01:07.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20260509061411_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Anurag Bhardwaj\\Desktop\\Cap\\Week-12\\09-05-2026\\Assignments\\Assignment-1\\FoodOrdering.Web\\Migrations\\20260509061411_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260509061411_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Anurag Bhardwaj\\Desktop\\Cap\\Week-12\\09-05-2026\\Assignments\\Assignment-1\\FoodOrdering.Web\\Migrations\\20260509061411_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20260509061411_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T06:14:12.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\Anurag Bhardwaj\\Desktop\\Cap\\Week-12\\09-05-2026\\Assignments\\Assignment-1\\FoodOrdering.Web\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "Models\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\Anurag Bhardwaj\\Desktop\\Cap\\Week-12\\09-05-2026\\Assignments\\Assignment-1\\FoodOrdering.Web\\Models\\OrderItem.cs",
+              "RelativeToolTip": "Models\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T05:59:50.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Anurag Bhardwaj\\Desktop\\Cap\\Week-12\\09-05-2026\\Assignments\\Assignment-1\\FoodOrdering.Web\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Models\\Order.cs",
+              "ToolTip": "C:\\Users\\Anurag Bhardwaj\\Desktop\\Cap\\Week-12\\09-05-2026\\Assignments\\Assignment-1\\FoodOrdering.Web\\Models\\Order.cs",
+              "RelativeToolTip": "Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T05:59:12.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "C:\\Users\\Anurag Bhardwaj\\Desktop\\Cap\\Week-12\\09-05-2026\\Assignments\\Assignment-1\\FoodOrdering.Web\\Models\\CartItem.cs",
+              "RelativeDocumentMoniker": "Models\\CartItem.cs",
+              "ToolTip": "C:\\Users\\Anurag Bhardwaj\\Desktop\\Cap\\Week-12\\09-05-2026\\Assignments\\Assignment-1\\FoodOrdering.Web\\Models\\CartItem.cs",
+              "RelativeToolTip": "Models\\CartItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T05:58:29.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "FoodItem.cs",
+              "DocumentMoniker": "C:\\Users\\Anurag Bhardwaj\\Desktop\\Cap\\Week-12\\09-05-2026\\Assignments\\Assignment-1\\FoodOrdering.Web\\Models\\FoodItem.cs",
+              "RelativeDocumentMoniker": "Models\\FoodItem.cs",
+              "ToolTip": "C:\\Users\\Anurag Bhardwaj\\Desktop\\Cap\\Week-12\\09-05-2026\\Assignments\\Assignment-1\\FoodOrdering.Web\\Models\\FoodItem.cs",
+              "RelativeToolTip": "Models\\FoodItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwBgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T05:57:17.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Anurag Bhardwaj\\Desktop\\Cap\\Week-12\\09-05-2026\\Assignments\\Assignment-1\\FoodOrdering.Web\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Anurag Bhardwaj\\Desktop\\Cap\\Week-12\\09-05-2026\\Assignments\\Assignment-1\\FoodOrdering.Web\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T05:56:38.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\Anurag Bhardwaj\\Desktop\\Cap\\Week-12\\09-05-2026\\Assignments\\Assignment-1\\FoodOrdering.Web\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\Anurag Bhardwaj\\Desktop\\Cap\\Week-12\\09-05-2026\\Assignments\\Assignment-1\\FoodOrdering.Web\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T05:55:51.441Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

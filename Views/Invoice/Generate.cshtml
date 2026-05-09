@@ -1,0 +1,39 @@
+﻿@model FoodOrdering.Web.Models.Order
+
+@{
+    ViewData["Title"] = "Invoice";
+}
+
+<div class="card p-4 shadow">
+    <h2 class="text-center">Food Ordering Invoice</h2>
+    <hr />
+
+    <p><b>Invoice No:</b> INV-@Model.Id</p>
+    <p><b>Order Date:</b> @Model.OrderDate</p>
+    <p><b>Status:</b> @Model.Status</p>
+
+    <table class="table table-bordered mt-3">
+        <tr>
+            <th>Food</th>
+            <th>Qty</th>
+            <th>Price</th>
+            <th>Total</th>
+        </tr>
+
+        @foreach (var item in Model.OrderItems!)
+        {
+            <tr>
+                <td>@item.FoodItem?.Name</td>
+                <td>@item.Quantity</td>
+                <td>₹@item.Price</td>
+                <td>₹@(item.Price * item.Quantity)</td>
+            </tr>
+        }
+    </table>
+
+    <h4 class="text-end">Grand Total: ₹@Model.TotalAmount</h4>
+
+    <button onclick="window.print()" class="btn btn-primary">
+        Print Invoice
+    </button>
+</div>

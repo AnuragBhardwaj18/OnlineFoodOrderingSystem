@@ -1,0 +1,39 @@
+﻿@{
+    ViewData["Title"] = "Login";
+}
+
+<div class="row justify-content-center mt-5">
+    <div class="col-md-5">
+        <div class="card shadow p-4">
+            <h2 class="text-center mb-4">Login</h2>
+
+            @if (ViewBag.Error != null)
+            {
+                <div class="alert alert-danger">@ViewBag.Error</div>
+            }
+
+            <form method="post">
+                <div class="mb-3">
+                    <label>Email</label>
+                    <input type="email" name="email" class="form-control" required />
+                </div>
+
+                <div class="mb-3">
+                    <label>Password</label>
+                    <input type="password" name="password" class="form-control" required />
+                </div>
+
+                <button type="submit" class="btn btn-warning w-100">Login</button>
+            </form>
+
+            <p class="text-center mt-3">
+                <a asp-controller="Account" asp-action="ForgotPassword">Forgot Password?</a>
+            </p>
+
+            <p class="text-center">
+                New user?
+                <a asp-controller="Account" asp-action="Register">Register</a>
+            </p>
+        </div>
+    </div>
+</div>

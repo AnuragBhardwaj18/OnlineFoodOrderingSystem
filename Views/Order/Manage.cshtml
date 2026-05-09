@@ -1,0 +1,43 @@
+﻿@model IEnumerable<FoodOrdering.Web.Models.Order>
+
+@{
+    ViewData["Title"] = "Manage Orders";
+}
+
+<h2>Manage Orders</h2>
+
+<table class="table table-bordered">
+    <tr>
+        <th>Order ID</th>
+        <th>Date</th>
+        <th>Total</th>
+        <th>Status</th>
+        <th>Update</th>
+    </tr>
+
+    @foreach (var order in Model)
+    {
+        <tr>
+            <td>@order.Id</td>
+            <td>@order.OrderDate</td>
+            <td>₹@order.TotalAmount</td>
+            <td>@order.Status</td>
+            <td>
+                <form asp-controller="Order" asp-action="UpdateStatus" method="post">
+                    <input type="hidden" name="id" value="@order.Id" />
+
+                    <select name="status" class="form-select mb-2">
+                        <option>Pending</option>
+                        <option>Confirmed</option>
+                        <option>Preparing</option>
+                        <option>Out for Delivery</option>
+                        <option>Delivered</option>
+                        <option>Cancelled</option>
+                    </select>
+
+                    <button class="btn btn-warning btn-sm">Update</button>
+                </form>
+            </td>
+        </tr>
+    }
+</table>

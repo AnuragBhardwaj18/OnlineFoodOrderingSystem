@@ -1,0 +1,33 @@
+﻿@{
+    ViewData["Title"] = "Home";
+}
+
+<section class="hero-section">
+    <div class="hero-content">
+        <h1>Delicious Food Delivered Fast</h1>
+        <p>Order your favorite meals from our online food ordering system.</p>
+
+        <a asp-controller="Food" asp-action="Index" class="btn btn-warning btn-lg">
+            Order Now
+        </a>
+    </div>
+</section>
+
+<section class="container mt-5">
+    <h2 class="text-center mb-4">Popular Categories</h2>
+
+    <div class="row text-center">
+        <div class="col-md-3">
+            <div class="food-card"><h4>Pizza</h4></div>
+        </div>
+        <div class="col-md-3">
+            <div class="food-card"><h4>Burger</h4></div>
+        </div>
+        <div class="col-md-3">
+            <div class="food-card"><h4>Drinks</h4></div>
+        </div>
+        <div class="col-md-3">
+            <div class="food-card"><h4>Desserts</h4></div>
+        </div>
+    </div>
+</section>

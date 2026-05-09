@@ -1,0 +1,138 @@
+html {
+    font-size: 14px;
+    position: relative;
+    min-height: 100%;
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #f8f9fa;
+    font-family: 'Segoe UI', sans-serif;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+main {
+    flex: 1;
+}
+
+/* Navbar */
+.navbar {
+    padding: 12px 20px;
+}
+
+.navbar-brand {
+    font-size: 24px;
+    font-weight: bold;
+    color: #ff6600 !important;
+}
+
+.nav-link {
+    font-size: 16px;
+    margin-right: 10px;
+}
+
+    .nav-link:hover {
+        color: #ff6600 !important;
+    }
+
+/* Hero Section */
+.hero-section {
+    background: linear-gradient(to right, #ff9966, #ff5e62);
+    color: white;
+    padding: 80px 20px;
+    border-radius: 15px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+    .hero-section h1 {
+        font-size: 52px;
+        font-weight: bold;
+    }
+
+    .hero-section p {
+        font-size: 20px;
+    }
+
+/* Food Cards */
+.food-item-card {
+    border: none;
+    border-radius: 15px;
+    overflow: hidden;
+    transition: 0.3s;
+    background: white;
+}
+
+    .food-item-card:hover {
+        transform: translateY(-5px);
+        box-shadow: 0 10px 25px rgba(0,0,0,0.2);
+    }
+
+    .food-item-card img {
+        height: 220px;
+        object-fit: cover;
+    }
+
+    .food-item-card .card-body {
+        padding: 20px;
+    }
+
+.food-price {
+    font-size: 22px;
+    font-weight: bold;
+    color: #ff6600;
+}
+
+/* Buttons */
+.btn-warning {
+    background-color: #ff6600;
+    border: none;
+}
+
+    .btn-warning:hover {
+        background-color: #e65c00;
+    }
+
+/* Forms */
+.form-control {
+    border-radius: 10px;
+}
+
+/* Tables */
+.table {
+    background: white;
+}
+
+/* Footer */
+.footer {
+    background: #212529;
+    color: white;
+    text-align: center;
+    padding: 18px;
+    margin-top: auto;
+    width: 100%;
+}
+
+    .footer a {
+        color: #ffc107;
+        text-decoration: none;
+    }
+
+/* Card */
+.card {
+    border-radius: 15px;
+}
+
+/* Image Preview */
+img {
+    max-width: 100%;
+}
